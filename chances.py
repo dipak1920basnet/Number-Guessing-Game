@@ -3,7 +3,7 @@ def Chance(label:int):
         return 3
     elif label == 2:
         return 5
-    elif label == 3:
+    elif label == 1:
         return 10
     else:
         raise ValueError("Label must be in range of 1 to 3")
