@@ -1,0 +1,6 @@
+You will have to guess the number between 1 to 100
+If you fail to guess the number then you will get another chances to guess the number
+There will be three modes in the game
+In easy mode: You will get 7 chances to guess the number
+In medium mode: You will get 5 chances to guess the number 
+In hard mode: You will get 2 chances to gess the number 
